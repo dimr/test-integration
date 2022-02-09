@@ -19,5 +19,6 @@ more content
 # end of file one
 # end of file two
 # end of file three
+# end of file four
 
 
