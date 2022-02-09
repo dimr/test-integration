@@ -12,6 +12,7 @@ more content
 # even more content
 # test content
 # last line
+# after conflict
 
 
 
