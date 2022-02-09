@@ -1,6 +1,6 @@
 # πρωτη μεταφραση
-this is a sentence!
-more content
+αυτο ειναι μια προταση 
+περισσοτε περιεχομενο
 
 # put content here
 
