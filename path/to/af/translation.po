@@ -14,7 +14,7 @@
 # τελευταια γραμμη
 # μετα τις συγκρουσεις με αλαλγες
 # τελος
-# use client
+# χρησιμοποιησε client
 # end of file
 # end of file one
 # end of file two
