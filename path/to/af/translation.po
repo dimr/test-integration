@@ -6,7 +6,7 @@
 
 # last content here μορε
 # σταλθηκε απο το github ξανα
-# adde RESOURCE as config path
+# αλλαγη στγ βαση
 # fixed webhook
 # add something more
 # even more content
