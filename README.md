@@ -13,6 +13,7 @@ more content
 # test content
 # last line
 # after conflict
+# x end
 
 
 
