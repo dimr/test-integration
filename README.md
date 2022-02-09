@@ -15,6 +15,7 @@ more content
 # after conflict
 # x end
 # use client
+# end of file
 
 
 
