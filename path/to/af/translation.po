@@ -2,4 +2,4 @@
 
 # καινουρια μεταφραση
 
-# pushed from guthub
+# apo editor
