@@ -1,26 +1,3 @@
 # test-integration
-this is a sentence!
-more content
 
 # put content here
-
-# last content here
-# pushed by github
-# adde RESOURCE as config path
-# fixed webhook
-# add something more
-# even more content
-# test content
-# last line
-# after conflict
-# x end
-# use client
-# end of file
-# end of file one
-# end of file two
-# end of file three
-# end of file four
-# end of file five five
-# end six
- 
-
