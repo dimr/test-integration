@@ -1,10 +1,10 @@
 git:
   filters:
-  - filter_type: dir
-    # all supported i18n types: https://docs.transifex.com/formats
-    source_file_extension: GITHUBMARKDOWN
-    file_format: po
-    source_language: en
-    source_file_dir: the_source_files/
-        # path expression to translation files, must contain <lang> placeholder
-    translation_files_expression: 'path/to/translation_<lang>.po'
+    - filter_type: dir
+      # all supported i18n types: https://docs.transifex.com/formats
+      file_format: GITHUBMARKDOWN 
+      source_file_extension: md
+      source_language: en  
+      source_file_dir: the_source_files/en/
+      # path expression to translation files, must contain <lang> placeholder
+      translation_files_expression: 'path/to/translation_<lang>.po'
