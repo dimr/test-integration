@@ -16,3 +16,10 @@ git:
       source_file_dir: the_source_files/en/
       # path expression to translation files, must contain <lang> placeholder
       translation_files_expression: 'translations/<lang>'
+filters:
+  - filter_type: dir
+    file_format: GITHUBMARKDOWN
+    source_file_extension: md
+    source_language: en
+    source_file_dir: trans_files/
+    translation_files_expression: 'trans_files/simple_<lang>.md'
