@@ -22,4 +22,13 @@ filters:
     source_file_extension: md
     source_language: en
     source_file_dir: trans_files/
-    translation_files_expression: 'trans_files/simple_<lang>.md'
+    translation_files_expression: 'trans_files/<lang>'
+
+# valid
+filters:
+  - filter_type: dir
+    file_format: GITHUBMARKDOWN
+    source_file_extension: md
+    source_language: en
+    source_file_dir: trans_files/
+    translation_files_expression: 'trans_files/<lang>'
