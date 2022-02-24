@@ -8,6 +8,7 @@ git:
     source_file_dir: the_source_files/en/
     # path expression to translation files, must contain <lang> placeholder
     translation_files_expression: 'translations/<lang>'
+git:
   filters:
     - filter_type: dir
       # all supported i18n types: https://docs.transifex.com/formats
