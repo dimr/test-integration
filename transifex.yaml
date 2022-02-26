@@ -10,7 +10,7 @@ git:
     translation_files_expression: 'translations/<lang>'
 
 
-  filter_type: dir
+  - filter_type: dir
     file_format: PO
     source_file_extension: po
     source_language: en
@@ -18,4 +18,3 @@ git:
     # path expression to translation files, must contain <lang> placeholder af
     translation_files_expression: 'trans/<lang>'
 
-    
