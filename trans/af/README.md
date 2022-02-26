@@ -1,5 +1,5 @@
-# τεσταρισμα περιισοτερπ apo editor dfd cxed
-
-# καινουρια μεταφραση
-
-# apo editor 
+{
+  "welcome": "dkmkdmkasmdk !",
+  "message": "this is the second",
+  "team": "περισσοτερο τεστ"
+}

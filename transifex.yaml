@@ -11,8 +11,8 @@ git:
 
 
   - filter_type: dir
-    file_format: PO
-    source_file_extension: po
+    file_format: KEYVALUEJSON
+    source_file_extension: json
     source_language: en
     source_file_dir: source/en
     # path expression to translation files, must contain <lang> placeholder af
