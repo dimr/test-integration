@@ -21,6 +21,6 @@ git:
 
 
   settings:
-     language_mappings:
-         korak:invalid
+    language_mappings:
+        korak:invalid
   
