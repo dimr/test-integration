@@ -20,7 +20,7 @@ git:
 
 
 
-    settings:
-      language_mapping:
-          korak: invalid
+settings:
+    language_mapping:
+        korak: invalid
   
