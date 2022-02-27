@@ -19,5 +19,5 @@ git:
     translation_files_expression: 'trans/<lang>'
   settings:
       language_mapping:
-          af: invalid
+          korak: invalid
   
