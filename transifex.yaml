@@ -18,3 +18,9 @@ git:
     # path expression to translation files, must contain <lang> placeholder af
     translation_files_expression: 'trans/<lang>'
 
+
+
+  settings:
+     language_mappings:
+         korak:invalid
+  
