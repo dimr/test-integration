@@ -4,7 +4,7 @@ git:
     file_format: GITHUBMARKDOWN
     source_file_extension: md
     source_language: en
-    source_file_dir: trans_files/
+    source_file_dir: trans_files/en/
     translation_files_expression: 'trans_files/<lang>'
      
  
